@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps fresher who likes turning messy deployments into smooth pipelines. Comfortable with AWS, Docker, and CI/CD, and always curious about improving reliability, automation, and cloud workflows.
+DevOps Engineer who likes turning messy deployments into smooth pipelines. Comfortable with AWS, Docker, and CI/CD, and always curious about improving reliability, automation, and cloud workflows.
 
 
 ## 🌐 Socials:
